@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="34px" viewBox="0 0 65 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>logo copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-130.000000, -49.000000)" fill-rule="nonzero">
+            <g id="logo-copy" transform="translate(131.000000, 50.000000)">
+                <path d="M0,0.375 L63,0.375" id="Line" stroke="#ED4F6B" stroke-linecap="square"></path>
+                <path d="M15.75,18 C15.75,15.1005051 13.3994949,12.75 10.5,12.75 C7.60050506,12.75 5.25,15.1005051 5.25,18" id="Oval" stroke="#ED4F6B" transform="translate(10.500000, 15.375000) scale(1, -1) translate(-10.500000, -15.375000) "></path>
+                <path d="M36.75,18 C36.75,15.1005051 34.3994949,12.75 31.5,12.75 C28.6005051,12.75 26.25,15.1005051 26.25,18" id="Oval-Copy" stroke="#ED4F6B" transform="translate(31.500000, 15.375000) scale(1, -1) translate(-31.500000, -15.375000) "></path>
+                <path d="M5.25,12.75 C5.25,9.85050506 2.89949494,7.5 4.4408921e-15,7.5" id="Oval-Copy-7" stroke="#ED4F6B"></path>
+                <path d="M26.25,12.75 C26.25,9.85050506 23.8994949,7.5 21,7.5 C18.1005051,7.5 15.75,9.85050506 15.75,12.75" id="Oval-Copy-8" stroke="#ED4F6B"></path>
+                <path d="M57.75,18 C57.75,15.1005051 55.3994949,12.75 52.5,12.75 C49.6005051,12.75 47.25,15.1005051 47.25,18" id="Oval-Copy-2" stroke="#ED4F6B" transform="translate(52.500000, 15.375000) scale(1, -1) translate(-52.500000, -15.375000) "></path>
+                <path d="M47.25,12.75 C47.25,9.85050506 44.8994949,7.5 42,7.5 C39.1005051,7.5 36.75,9.85050506 36.75,12.75" id="Oval-Copy-9" stroke="#ED4F6B"></path>
+                <path d="M63,7.5 C60.1005051,7.5 57.75,9.85050506 57.75,12.75" id="Oval-Copy-10" stroke="#ED4F6B"></path>
+                <circle id="Oval" fill="#ED4F6B" cx="6" cy="24" r="1.5"></circle>
+                <circle id="Oval-Copy-3" fill="#ED4F6B" cx="31.5" cy="24" r="1.5"></circle>
+                <circle id="Oval-Copy-6" fill="#ED4F6B" cx="57" cy="24" r="1.5"></circle>
+                <circle id="Oval-Copy-4" fill="#ED4F6B" cx="18.75" cy="31.5" r="1.5"></circle>
+                <circle id="Oval-Copy-5" fill="#ED4F6B" cx="44.25" cy="31.5" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
